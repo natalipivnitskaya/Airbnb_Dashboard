@@ -9,6 +9,7 @@ The Variables dropdown menu allows to select 2 different variables and display t
 
 
 ### File Structure:
+```
 .
 |--app.py
 |--data_cleaning.py
@@ -23,6 +24,7 @@ The Variables dropdown menu allows to select 2 different variables and display t
 |  |--style.css
 |  |--base.css
 |--requirements.txt
+```
 
 ### Installation
 
