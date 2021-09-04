@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```
 ### Usage
 
-Once you are in the shell, you can run the app locally by 
+Once you are in the shell, you can run the app locally by:
 ```
 python app.py
 ```
